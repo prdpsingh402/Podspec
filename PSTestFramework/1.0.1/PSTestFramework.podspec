@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "PSTestFramework"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.1"
   spec.summary      = "This is a Tesing framework called PSTestFramework."
   spec.description  = "With the help of PSTestFramework Framework we can Test that how we can publish our pod file with out shareing the source code."
   spec.homepage     = "https://docs.growlytics.in"
